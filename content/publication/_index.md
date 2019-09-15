@@ -13,5 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-Relation of second formant trajectories.
