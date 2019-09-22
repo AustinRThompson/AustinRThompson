@@ -13,3 +13,4 @@ header: Relationship of second formant frequencies
   caption: ""
   image: ""
 ---
+title: Relation of second
