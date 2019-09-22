@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Austin Thompson is a second-year doctoral student in LSU's Department of Communication Sciences and Disorders with a research interest in speech science. Under the mentorship of Dr. Yunjung Kim, Austin’s research investigates the use of speech science to diagnose and treat individuals with dysarthria, a group of speech disorders caused by various neurological conditions (including Parkinson’s disease and Amyotrophic Lateral Sclerosis). Specifically, he aims to investigate the relationship between perceptual, acoustic, and articulatory characteristics of speech to inform treatment for individuals with dysarthria. In other words, he explores the connection between how we speak and what we hear. In his spare time, Austin enjoys spending time with his dogs, tending to his houseplants, and watching scary movies.
